@@ -1,3 +1,5 @@
+[![GitHub Actions Demo](https://github.com/kornilenko-o/ci-cd-devops/actions/workflows/first.yml/badge.svg?branch=main&event=push)](https://github.com/kornilenko-o/ci-cd-devops/actions/workflows/first.yml)
+
 ## Prerequisites:
 - Java JDK version 17+ should be installed in the system
 
